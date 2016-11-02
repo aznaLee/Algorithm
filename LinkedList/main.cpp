@@ -43,6 +43,8 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	delete pStack;*/
 
+	// 냐냐냐냐냐냐냐냐냔
+
 	//Queue
 	CLinkedNode<int>* pRootNode = new CLinkedNode<int>("RootNode", 0);
 
